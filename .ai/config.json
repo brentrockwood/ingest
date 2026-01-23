@@ -1,0 +1,5 @@
+{
+  "endpoint": "https://api.openai.com/v1",
+  "model": "gpt-3.5-turbo",
+  "last_used_endpoint": "https://api.openai.com/v1"
+}

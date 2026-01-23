@@ -1,0 +1,69 @@
+{
+  "version": "1.0",
+  "rules": {
+    "ls": {
+      "action": "ask",
+      "risk_level": 1
+    },
+    "bash": {
+      "action": "ask",
+      "risk_level": 4
+    },
+    "web": {
+      "action": "ask",
+      "risk_level": 2
+    },
+    "mcp": {
+      "action": "ask",
+      "risk_level": 3
+    },
+    "rm": {
+      "action": "ask",
+      "risk_level": 5
+    },
+    "mv": {
+      "action": "ask",
+      "risk_level": 3
+    },
+    "cp": {
+      "action": "ask",
+      "risk_level": 2
+    },
+    "mkdir": {
+      "action": "ask",
+      "risk_level": 2
+    },
+    "rmdir": {
+      "action": "ask",
+      "risk_level": 4
+    },
+    "chmod": {
+      "action": "ask",
+      "risk_level": 4
+    },
+    "chown": {
+      "action": "ask",
+      "risk_level": 5
+    },
+    "find": {
+      "action": "ask",
+      "risk_level": 2
+    },
+    "grep": {
+      "action": "ask",
+      "risk_level": 2
+    },
+    "cat": {
+      "action": "ask",
+      "risk_level": 1
+    },
+    "touch": {
+      "action": "ask",
+      "risk_level": 1
+    },
+    "echo": {
+      "action": "ask",
+      "risk_level": 1
+    }
+  }
+}
